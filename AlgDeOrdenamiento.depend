@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1778013968 source:c:\users\asus 40-60\videos\auna vi\programacion competitiva\programa\algoritmos de ordenamiento\ordenamiento\algdeordenamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
