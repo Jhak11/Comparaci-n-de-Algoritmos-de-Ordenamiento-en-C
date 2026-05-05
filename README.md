@@ -5,59 +5,11 @@ la cantidad de pasos realizados y el tiempo de ejecución.
 
 ### Algoritmos implementados
 
-A continuación se presenta una lista de los algoritmos de ordenamiento utilizados en el programa.
-
 1. Bubble Sort
-Compara pares de elementos adyacentes del arreglo y los intercambia si están en el orden incorrecto.  
-Este proceso se repite varias veces hasta que el arreglo queda completamente ordenado.
-
-**Características:**
-- Poco eficiente para grandes cantidades de datos.
-- Complejidad temporal promedio: **O(n²)**.
-
----
-
 2. Selection Sort
-Funciona buscando el elemento más pequeño del arreglo y colocándolo en la primera posición. Luego busca el siguiente elemento más
-pequeño para colocarlo en la segunda posición, y así sucesivamente hasta ordenar todo el arreglo.
-
-**Características:**
-- Siempre recorre el arreglo completo para encontrar el mínimo.
-- Complejidad temporal: **O(n²)**.
-
----
-
 3. Insertion Sort
-Construye el arreglo ordenado de forma progresiva. Toma un elemento del arreglo y lo inserta en la posición correcta dentro
-de la parte que ya está ordenada.
-
-**Características:**
-- Muy eficiente para arreglos pequeños o casi ordenados.
-- Usado como base en algunos algoritmos más avanzados.
-- Complejidad temporal promedio: **O(n²)**.
-
----
-
 4. Quick Sort
-Algoritmo de tipo **divide y vencerás**.  
-Selecciona un elemento llamado **pivote**, divide el arreglo en dos partes
-(menores y mayores que el pivote) y luego ordena cada parte de forma recursiva.
-
-**Características:**
-- Muy eficiente para grandes conjuntos de datos.
-- Complejidad promedio: **O(n log n)**.
-
----
-
 5. Counting Sort
-Algoritmo de ordenamiento **no comparativo** que cuenta
-cuántas veces aparece cada valor dentro de un rango determinado.  
-Luego utiliza esa información para reconstruir el arreglo ordenado.
-
-**Características:**
-- Muy rápido cuando el rango de valores es pequeño.
-- Complejidad temporal: **O(n + k)**, donde *k* es el rango de valores.
-
 
 ## Requisitos
 
@@ -103,6 +55,61 @@ Entrada de numero y generacion de los numeros del array
 
 Salida, numeros del array ordenado de menor a mayor y tabla de comparacion de los algoritmos de ordenamiento
 <img width="616" height="215" alt="image" src="https://github.com/user-attachments/assets/525858ea-9f5a-4d0a-af19-a9a3398eac89" />
+
+
+##Descripcion de los algoritmos implementados:
+
+###1. Bubble Sort
+Compara pares de elementos adyacentes del arreglo y los intercambia si están en el orden incorrecto.  
+Este proceso se repite varias veces hasta que el arreglo queda completamente ordenado.
+
+**Características:**
+- Poco eficiente para grandes cantidades de datos.
+- Complejidad temporal promedio: **O(n²)**.
+
+---
+
+###2. Selection Sort
+Funciona buscando el elemento más pequeño del arreglo y colocándolo en la primera posición. Luego busca el siguiente elemento más
+pequeño para colocarlo en la segunda posición, y así sucesivamente hasta ordenar todo el arreglo.
+
+**Características:**
+- Siempre recorre el arreglo completo para encontrar el mínimo.
+- Complejidad temporal: **O(n²)**.
+
+---
+
+###3. Insertion Sort
+Construye el arreglo ordenado de forma progresiva. Toma un elemento del arreglo y lo inserta en la posición correcta dentro
+de la parte que ya está ordenada.
+
+**Características:**
+- Muy eficiente para arreglos pequeños o casi ordenados.
+- Usado como base en algunos algoritmos más avanzados.
+- Complejidad temporal promedio: **O(n²)**.
+
+---
+
+###4. Quick Sort
+Algoritmo de tipo **divide y vencerás**.  
+Selecciona un elemento llamado **pivote**, divide el arreglo en dos partes
+(menores y mayores que el pivote) y luego ordena cada parte de forma recursiva.
+
+**Características:**
+- Muy eficiente para grandes conjuntos de datos.
+- Complejidad promedio: **O(n log n)**.
+
+---
+
+###5. Counting Sort
+Algoritmo de ordenamiento **no comparativo** que cuenta
+cuántas veces aparece cada valor dentro de un rango determinado.  
+Luego utiliza esa información para reconstruir el arreglo ordenado.
+
+**Características:**
+- Muy rápido cuando el rango de valores es pequeño.
+- Complejidad temporal: **O(n + k)**, donde *k* es el rango de valores.
+
 
 
 
