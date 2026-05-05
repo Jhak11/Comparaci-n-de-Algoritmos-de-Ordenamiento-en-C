@@ -34,26 +34,34 @@ la cantidad de pasos realizados y el tiempo de ejecución.
 
 ## Ejemplos de ejecucion
 
-Ejemplo 1:. 
-Cantidad de números: 100.
-Intervalo: 1 5.
+### Ejemplo 1:
+Cantidad de números: 100
+Intervalo: 1 5
 
-Entrada de numero y generacion de los numeros del array
+Entrada de numero y generacion de los numeros del array:
+
 <img width="1438" height="166" alt="image" src="https://github.com/user-attachments/assets/49d4e87b-2d9f-4621-8660-d8f7365d5a27" />
 
-Salida, numeros del array ordenado de menor a mayor y tabla de comparacion de los algoritmos de ordenamiento
+Salida:
+1. Numeros del array ordenados de menor a mayor
+2. Tabla de comparacion de los algoritmos de ordenamiento
+   
 <img width="1440" height="227" alt="image" src="https://github.com/user-attachments/assets/9cc66bff-36c8-4ded-a5d1-07178294d76a" />
 
 
 
-Ejemplo 2:. 
-Cantidad de números: 10.
-Intervalo: 1 20.
+### Ejemplo 2: 
+Cantidad de números: 10
+Intervalo: 1 20
 
-Entrada de numero y generacion de los numeros del array.
+Entrada de numero y generacion de los numeros del array:
+
 <img width="325" height="120" alt="image" src="https://github.com/user-attachments/assets/e4f3eb4a-3b5a-4e17-bf38-8ec94d17d58d" />
 
-Salida, numeros del array ordenado de menor a mayor y tabla de comparacion de los algoritmos de ordenamiento.
+Salida:
+1. Numeros del array ordenados de menor a mayor
+2. Tabla de comparacion de los algoritmos de ordenamiento
+   
 <img width="616" height="215" alt="image" src="https://github.com/user-attachments/assets/525858ea-9f5a-4d0a-af19-a9a3398eac89" />
 
 
