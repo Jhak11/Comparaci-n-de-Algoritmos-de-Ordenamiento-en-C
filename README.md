@@ -16,4 +16,4 @@ Para compilar el programa use el siguiente comando:
 
 
 ```bash
-g++ main.cpp -o programa
+g++ AlgDeOrdenamiento.cbp -o programa
