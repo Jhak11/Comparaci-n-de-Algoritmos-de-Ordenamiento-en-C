@@ -34,9 +34,9 @@ la cantidad de pasos realizados y el tiempo de ejecución.
 
 ## Ejemplos de ejecucion
 
-Ejemplo 1: 
-Cantidad de números: 100
-Intervalo: 1 5
+Ejemplo 1:. 
+Cantidad de números: 100.
+Intervalo: 1 5.
 
 Entrada de numero y generacion de los numeros del array
 <img width="1438" height="166" alt="image" src="https://github.com/user-attachments/assets/49d4e87b-2d9f-4621-8660-d8f7365d5a27" />
@@ -46,20 +46,20 @@ Salida, numeros del array ordenado de menor a mayor y tabla de comparacion de lo
 
 
 
-Ejemplo 2: 
-Cantidad de números: 10
-Intervalo: 1 20
+Ejemplo 2:. 
+Cantidad de números: 10.
+Intervalo: 1 20.
 
-Entrada de numero y generacion de los numeros del array
+Entrada de numero y generacion de los numeros del array.
 <img width="325" height="120" alt="image" src="https://github.com/user-attachments/assets/e4f3eb4a-3b5a-4e17-bf38-8ec94d17d58d" />
 
-Salida, numeros del array ordenado de menor a mayor y tabla de comparacion de los algoritmos de ordenamiento
+Salida, numeros del array ordenado de menor a mayor y tabla de comparacion de los algoritmos de ordenamiento.
 <img width="616" height="215" alt="image" src="https://github.com/user-attachments/assets/525858ea-9f5a-4d0a-af19-a9a3398eac89" />
 
 
-##Descripcion de los algoritmos implementados:
+## Descripcion de los algoritmos implementados:
 
-###1. Bubble Sort
+### 1. Bubble Sort
 Compara pares de elementos adyacentes del arreglo y los intercambia si están en el orden incorrecto.  
 Este proceso se repite varias veces hasta que el arreglo queda completamente ordenado.
 
@@ -69,7 +69,7 @@ Este proceso se repite varias veces hasta que el arreglo queda completamente ord
 
 ---
 
-###2. Selection Sort
+### 2. Selection Sort
 Funciona buscando el elemento más pequeño del arreglo y colocándolo en la primera posición. Luego busca el siguiente elemento más
 pequeño para colocarlo en la segunda posición, y así sucesivamente hasta ordenar todo el arreglo.
 
@@ -79,7 +79,7 @@ pequeño para colocarlo en la segunda posición, y así sucesivamente hasta orde
 
 ---
 
-###3. Insertion Sort
+### 3. Insertion Sort
 Construye el arreglo ordenado de forma progresiva. Toma un elemento del arreglo y lo inserta en la posición correcta dentro
 de la parte que ya está ordenada.
 
@@ -90,7 +90,7 @@ de la parte que ya está ordenada.
 
 ---
 
-###4. Quick Sort
+### 4. Quick Sort
 Algoritmo de tipo **divide y vencerás**.  
 Selecciona un elemento llamado **pivote**, divide el arreglo en dos partes
 (menores y mayores que el pivote) y luego ordena cada parte de forma recursiva.
@@ -101,7 +101,7 @@ Selecciona un elemento llamado **pivote**, divide el arreglo en dos partes
 
 ---
 
-###5. Counting Sort
+### 5. Counting Sort
 Algoritmo de ordenamiento **no comparativo** que cuenta
 cuántas veces aparece cada valor dentro de un rango determinado.  
 Luego utiliza esa información para reconstruir el arreglo ordenado.
