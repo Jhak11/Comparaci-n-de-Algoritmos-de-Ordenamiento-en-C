@@ -1,4 +1,4 @@
-# Comparacion de Algoritmos de Ordenamiento
+# Comparación de Algoritmos de Ordenamiento
 
 Este proyecto implementa diferentes algoritmos de ordenamiento y mide
 la cantidad de pasos realizados y el tiempo de ejecución.
